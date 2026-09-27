@@ -6,8 +6,6 @@ FPGA-Based Real-Time Wireless Communication Framework.
 ## Documents
 
 - Project Report
-- Project Paper
-
 The project uses:
 - PYNQ-Z2 FPGA
 - NRF24L01 wireless transceiver
